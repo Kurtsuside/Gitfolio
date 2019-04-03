@@ -1,0 +1,84 @@
+.my-nav{
+    background: rgb(92, 46, 54);
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    color: grey;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.navbar-brand:hover{
+    color: grey;
+}
+
+.items{
+    margin-right: 100px;
+}
+
+.nav-item{
+    margin-right: 20px;
+}
+
+.banner-content{
+    color: rgb(61, 31, 36);
+    font-size: 50px;
+    text-align:center;
+    height: calc(100vh - 56px);
+}
+
+.banner-content h1{
+    font-size: 70px;
+    border-radius: 40px;
+    background-color: white;
+    margin-top: 60%;
+    padding: 10px;
+}
+
+.banner-content a{
+    font-size: 50px;
+    color: rgb(61, 31, 36);
+    padding: 10px;
+    background-color: white;
+    border-radius: 40px;
+}
+
+.masthead{
+    background-image: url(Images/Background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text-area{
+    background-color: rebeccapurple;
+    height: 100px;
+}
+
+.card{
+    width: 18rem;
+    margin-right: 130px;
+    margin-bottom: 30px;
+}
+
+.card img{
+    
+    height: 300px;
+    
+}
+
+.about-me a{
+   color: white;
+}
+
+.about-me a:hover{
+    color: white;
+}
+
+
+
