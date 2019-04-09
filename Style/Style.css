@@ -49,27 +49,28 @@
     border-radius: 40px;
 }
 
-.masthead{
-    background-image: url(Images/Background.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
 .text-area{
     background-color: rebeccapurple;
     height: 100px;
 }
 
-.card{
+/* .card{
     width: 18rem;
-    margin-right: 130px;
     margin-bottom: 30px;
+    margin-left: 10px;
 }
 
 .card img{
     
     height: 300px;
     
+} */
+
+.card{
+    margin-bottom: 50px;
+    height: 33%;
+    width: 25%;
+    margin-left: 50px;
 }
 
 .about-me a{
@@ -80,5 +81,26 @@
     color: white;
 }
 
+.mySlides{
+ max-width: 100%;
+}
 
+.slides{
+    position: relative;
+    text-align: center;
+}
 
+.Idk{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.carousel-inner{
+    height: 800px;
+}
+
+.carousel-item{
+    height: 880px;
+}

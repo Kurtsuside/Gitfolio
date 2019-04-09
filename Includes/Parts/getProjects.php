@@ -10,7 +10,7 @@ $sql = " SELECT * FROM `projects` ORDER BY `projectTitle` ASC ";
 
     while($row=mysqli_fetch_assoc($result)) 
     {
-        echo "<div class='card'>";
+        echo "<div class='col-mg-6 card'>";
         echo "<img class='card-img-top' src=".$row['projectImage']." alt='Card image cap'>";
         echo "<div class='card-body'>";
         echo    "<h5 class='card-title'>".$row['projectTitle']."</h5>";

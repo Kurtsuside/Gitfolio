@@ -18,6 +18,7 @@
                     <h4><i class="fas fa-file-word"></i><a href="https://www.youracclaim.com/badges/f61a90e5-f438-4acf-b3e9-b99dc862de56/linked_in_profile" target="_blank">Microsoft Office Specialist Word</a></h4>
                     <h4><i class="fas fa-file-excel"></i><a href="https://www.youracclaim.com/badges/f164b18d-8281-448c-af54-5095db249d48/linked_in_profile" target="_blank">Microsoft Office Specialist Excel</a></h4>
                     <h4><i class="fas fa-file-powerpoint"></i><a href="https://www.youracclaim.com/badges/539cdfb6-b8ee-441e-9aae-e5f00e32a19a/linked_in_profile" target="_blank">Microsoft Office Specialist Powerpoint</a></h4>
+                    <h4><i class="fas fa-inbox"></i><a href="https://www.youracclaim.com/badges/5960693b-bf79-4622-86ac-36152772825e/linked_in_profile" target="_blank">Microsoft Office Specialist Outlook</a></h4>
                     <!--<i class="fas fa-landmark"></i>-->
                 </div>
                 <div class="col-lg-6">
@@ -35,6 +36,9 @@
                     <h4>KurtPeeters15@gmail.com <i class="fas fa-envelope"></i></h4>
                 </div>
                 <div class="col-lg-6">
+                    <h3>My Educations:</h4>
+                    <h4>Vmbo-t education at Dendron College Horst <i class="fas fa-graduation-cap"></i></h4>
+                    <h4>Mbo Education at ROC ter AA Helmond (Currently)</h4>
                 </div>
             </div>    
         </div>
