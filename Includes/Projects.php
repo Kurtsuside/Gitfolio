@@ -7,8 +7,6 @@
                     <hr class="divider light my-4">
                 </div>
             </div>
-            <div class="row">
                 <?php require 'Parts/getProjects.php' ?>
-            </div>
         </div>
     </section>
